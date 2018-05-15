@@ -1,0 +1,2 @@
+# mariadb
+db columnstore
